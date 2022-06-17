@@ -1,6 +1,6 @@
 {
   "name": "ReadAid",
-  "description": "Project H: Chrome Extension",
+  "description": "Show / Hide: '/', --------------------------------------------- Width: (reduce) '[' | (expand) ']', ---------------------- Height: (reduce) '-' | (expand) '+'",
   "version": "1.0",
   "manifest_version": 3,
   "content_scripts": [
@@ -12,3 +12,22 @@
     }
   ]
 }
+
+// {
+//   "name": "ReadAid",
+//   "description": "Project H: Chrome Extension",
+//   "version": "1.0",
+//   "manifest_version": 3,
+//   "action": {
+//     "default_popup": "popup.html"
+//   },
+//   "content_scripts": [
+//     {
+//       "matches": ["<all_urls>"],
+//       "js": ["readAid.js"],
+//       "css": ["readAid.css"],
+//       "run_at": "document_end"
+//     }
+//   ]
+// }
+
