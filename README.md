@@ -1,2 +1,2 @@
 # Chrome Extension: ReadAid
-# Codesmith Hackathon Challenge (06/16/2022)
+Chrome Extension tool that injects a fully customizable tag handled with MouseEvent and KeyboardEvent interface into the browser for UX enhancement of reading content-heavy website
